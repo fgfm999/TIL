@@ -16,3 +16,8 @@ The frontend is using React + MUI
 2. User can see following's post, like the home timeline of twitter
 3. User should stake some NEAR for the storage  
 
+## Team
+
+fgfm999
+
+A web2 developer,  start developing web3 this year. Familiar with Rust, Typescript.
